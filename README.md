@@ -18,6 +18,7 @@
       Screen brightness: brightlight control works, need to connect an external keyboard ONCE to setup brightness increase/decrease shortcut keys in settings
       Sleep: Sleep works (both by pressing the sleep button in menu bar, and by closing the lid)
       Touchpad: Working with voodoops2 (later will use voodooi2c for advanced gestures)
+      Undervolt - use voltageShift (search Google)
 
 ## Not working
       HDMI Output
