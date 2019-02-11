@@ -29,4 +29,6 @@
       Thanks to FireWolf Pl for solving the zero panic problem and improving xps15 9570
       Thank you very much for your help. Shaohua, officials, ham sausage, Taoge, Big Cousin, Daliansky and other brothers!
       
+# My laptop: XPS 15 9570 i7 8750H, 4K 16GB RAM, Toshiba XG5 512GB. If you have a different CPU/SSD/Screen you may need to further modify this EFI.
+      
 ## Additional thanks to @shenlinsl, @xigtun, and @bavariancake whose work, by examining their EFIs made this EFI possible.
