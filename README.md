@@ -29,4 +29,4 @@
       Thanks to FireWolf Pl for solving the zero panic problem and improving xps15 9570
       Thank you very much for your help. Shaohua, officials, ham sausage, Taoge, Big Cousin, Daliansky and other brothers!
       
-## Additional thanks to @shenlinsl, @xigtun, and @bavariancake whose work made this EFI possible.
+## Additional thanks to @shenlinsl, @xigtun, and @bavariancake whose work, by examining their EFIs made this EFI possible.
