@@ -1,6 +1,8 @@
 ### Dell-XPS-15-9570-macOS-Mojave
 ## Note: This EFI is a modification by me of the original "DELL-XPS-15-9570-8950-4K-macOS-Mojave" EFI by shenlinsl. shenlinsl's EFI currently does not have sleep working when brightness adjustment is enabled, along with power management issues related to audio. This modified EFI solves these issues.
 
+### My laptop: XPS 15 9570 i7 8750H, 4K 16GB RAM, Toshiba XG5 512GB. If you have a different CPU/SSD/Screen you may need to further modify this EFI.
+
 ## 10.14.x System Installation: 
       1. Use macOS-Mojave OS Installer to install and restart to enter the system
       2. Reconstruct kextcache (sudo kextcache-i/)
@@ -28,7 +30,5 @@
       Making device-driven gods for Hackintosh (this is not a list, thank you all)
       Thanks to FireWolf Pl for solving the zero panic problem and improving xps15 9570
       Thank you very much for your help. Shaohua, officials, ham sausage, Taoge, Big Cousin, Daliansky and other brothers!
-      
-# My laptop: XPS 15 9570 i7 8750H, 4K 16GB RAM, Toshiba XG5 512GB. If you have a different CPU/SSD/Screen you may need to further modify this EFI.
       
 ## Additional thanks to @shenlinsl, @xigtun, and @bavariancake whose work, by examining their EFIs made this EFI possible.
