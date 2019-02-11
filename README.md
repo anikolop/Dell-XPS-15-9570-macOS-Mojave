@@ -1,7 +1,7 @@
 ### Dell-XPS-15-9570-macOS-Mojave
 ## Note: This EFI is a modification by me of the original "DELL-XPS-15-9570-8950-4K-macOS-Mojave" EFI by shenlinsl. shenlinsl's EFI currently does not have sleep working when brightness adjustment is enabled, along with power management issues related to audio. This modified EFI solves these issues.
 
-10.14.x . System Installation: 
+## 10.14.x . System Installation: 
       1. Use macOS-Mojave OS Installer to install and restart to enter the system
       2. Reconstruct kextcache (sudo kextcache-i/)
       3. Replace the DELL XPS 15 9570 8950 4K macOS Mojave EFI folder
