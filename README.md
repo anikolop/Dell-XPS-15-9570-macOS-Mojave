@@ -4,7 +4,7 @@
 ### My laptop: XPS 15 9570 i7 8750H, 4K 16GB RAM, Toshiba XG5 512GB. If you have a different CPU/SSD/Screen you may need to further modify this EFI.
 
 ## 10.14.x System Installation: 
-      1. Use macOS-Mojave OS Installer to install and restart to enter the system
+      1. Use Installer EFI to install and restart to enter the system
       2. Reconstruct kextcache (sudo kextcache-i/)
       3. Replace the DELL XPS 15 9570 8950 4K macOS Mojave EFI folder
       4. restart
